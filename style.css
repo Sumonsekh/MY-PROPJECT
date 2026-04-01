@@ -140,10 +140,10 @@ html {
 
 /* Hero Background Animation */
 @keyframes slide {
-    0% {background-image: url('/sand.png');}
-    33% {background-image: url('/sand2.png');}
-    66% {background-image: url('/stone.png');}
-    100% {background-image: url('/truck.png');}
+    0% {background-image: url('sand.png');}
+    33% {background-image: url('sand2.png');}
+    66% {background-image: url('stone.png');}
+    100% {background-image: url('truck.png');}
 }
 
 /* Details */
